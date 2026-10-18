@@ -30,14 +30,7 @@ Requirements
 
 Getting Started
 
-1. Clone the repository
-
-git clone https://github.com/YOUR_USERNAME/eliza-neural-assistant.git
-cd eliza-neural-assistant
-
-Replace "YOUR_USERNAME" with your GitHub username.
-
-2. Run the assistant
+1. Run the assistant
 
 python eliza.py
 
@@ -47,7 +40,7 @@ On the first run, the program trains the neural network using its built-in datas
 
 On later runs, it attempts to load the saved weights.
 
-3. Chat with the assistant
+2. Chat with the assistant
 
 Enter a message when prompted:
 
